@@ -16,5 +16,21 @@ namespace Karsakov_PR07_GIT
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string name = Convert.ToString(textBox1.Text);
+            string pass = Convert.ToString(textBox2.Text);
+            if (pass == "root" && name == "root")
+            {
+                Form2 adminForm = new Form2();
+                adminForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Неверный логин или пароль.");
+            }
+        }
     }
 }

@@ -19,7 +19,7 @@ namespace Karsakov_PR07_GIT
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("карсаков Роман Евгеньевич");
+            MessageBox.Show("Карсаков Роман Евгеньевич");
         }
     }
 }
