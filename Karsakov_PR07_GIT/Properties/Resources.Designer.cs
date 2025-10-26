@@ -63,6 +63,16 @@ namespace Karsakov_PR07_GIT.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap a44007d490eb4cbaea872ea6a3ee9ff8 {
+            get {
+                object obj = ResourceManager.GetObject("a44007d490eb4cbaea872ea6a3ee9ff8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap i__1_ {
             get {
                 object obj = ResourceManager.GetObject("i (1)", resourceCulture);
