@@ -1,0 +1,11 @@
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\bin\Debug\Karsakov_PR07_GIT.exe.config
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\bin\Debug\Karsakov_PR07_GIT.exe
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\bin\Debug\Karsakov_PR07_GIT.pdb
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.csproj.AssemblyReference.cache
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.Form1.resources
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.Form2.resources
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.Properties.Resources.resources
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.csproj.GenerateResource.cache
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.csproj.CoreCompileInputs.cache
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.exe
+D:\Karsakov_PR07_GIT\Karsakov_PR07_GIT\obj\Debug\Karsakov_PR07_GIT.pdb

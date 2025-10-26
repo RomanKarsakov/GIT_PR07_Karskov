@@ -61,7 +61,7 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(28, 60);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(5);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(200, 34);
             this.textBox1.TabIndex = 2;
@@ -69,7 +69,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(28, 165);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(5);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(200, 34);
             this.textBox2.TabIndex = 3;
@@ -77,18 +77,19 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(28, 243);
-            this.button1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(203, 42);
             this.button1.TabIndex = 4;
             this.button1.Text = "Авторизация";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Karsakov_PR07_GIT.Properties.Resources.i__1_;
             this.pictureBox1.Location = new System.Drawing.Point(323, 24);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(5);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(369, 365);
             this.pictureBox1.TabIndex = 5;
@@ -107,7 +108,7 @@
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "ПР07";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
